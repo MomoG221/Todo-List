@@ -61,7 +61,7 @@ Before running this application, ensure you have the following installed:
 1. Start the server:
 
    ```sh
-   npm start
+   nodemon index.js
    ```
 
 2. Open your browser and navigate to `http://localhost:3000` to view the application.
