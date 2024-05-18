@@ -1,6 +1,6 @@
 Here's a `README.md` file for your Todo List application, including setup instructions and the SQL command to create the necessary table:
 
-```markdown
+
 # Todo List Application
 
 This is a simple Todo List application built with Node.js, Express, and PostgreSQL. The application allows users to add, edit, and delete items from a todo list.
